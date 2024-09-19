@@ -1,16 +1,32 @@
-## Hi there 👋
+# Professional Profile
 
-<!--
-**Mihai-Sebastian/Mihai-Sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Academic Background
+- **Multiplatform Application Development (DAM)**: Currently pursuing a higher vocational degree.
+- **Network Systems Administration (ASIX)**: Experience in system and network administration.
+- **Microcomputer Systems and Networks (SMX)**: Knowledge in installation, configuration, and maintenance of computer systems.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**:
+    - Python
+    - PHP
+    - Javascript
+    - C#
+    - Java
+
+- **Frameworks and Tools**:
+    - Laravel
+    - Vue.js
+    - Ionic (for hybrid mobile applications)
+
+- **Other Skills**:
+    - HTML5, CSS3
+
+## 🎮 Hobbies and Interests
+
+- **Video Games**: A big fan of video games, especially the **Persona** series, known for its deep narrative and artistic design.
+- **Cinema and Anime**: Passionate about cinema and anime, always enjoying the discovery of new audiovisual works.
+- **Art and Creation**: I love art related to the world of video games, especially the creation of **2D sprites**.
+
+## 🌱 Constantly Evolving
+In addition to all this, I am always looking for new technologies and programming languages to learn and improve, staying up-to-date with the latest trends in development and digital art.
