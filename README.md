@@ -30,3 +30,7 @@
 
 ## 🌱 Constantly Evolving
 In addition to all this, I am always looking for new technologies and programming languages to learn and improve, staying up-to-date with the latest trends in development and digital art.
+
+<p align="center">
+  <img src="https://i.redd.it/bu1weaikjewy.gif" alt="Persona Gif" />
+</p>
