@@ -1,35 +1,18 @@
-# Professional Profile
+## I'm Mihai Sebastian
+I have knowledge in Python, PHP, Javascript, HTML, Tailwind CSS, and Bootstrap. I'm currently learning Kotlin for Android Studio, Java, Laravel, Javascript, Vue, and React. The tools I use include Visual Studio Code, JetBrains IntelliJ, PyCharm, and PhpStorm.
 
-## 🎓 Academic Background
-- **Multiplatform Application Development (DAM)**: Currently pursuing a higher vocational degree.
-- **Network Systems Administration (ASIX)**: Experience in system and network administration.
-- **Microcomputer Systems and Networks (SMX)**: Knowledge in installation, configuration, and maintenance of computer systems.
+### Main Stack
+| <div><img src="https://skillicons.dev/icons?i=python" alt="Python" /> <p>Python</p> </div> | <div><img src="https://skillicons.dev/icons?i=php" alt="PHP" /> <p>PHP</p> </div> | <div><img src="https://skillicons.dev/icons?i=js" alt="Javascript" /> <p>Javascript</p> </div> | <div><img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <p>HTML</p> </div> | <div><img src="https://skillicons.dev/icons?i=css" alt="CSS" /> <p>CSS</p> </div> | 
+| --- | --- | --- | --- | --- |
 
-## 💻 Technical Skills
+### I'm learning
+| <div><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <p>Kotlin</p> </div> | <div><img src="https://skillicons.dev/icons?i=java" alt="Java" /> <p>Java</p> </div> | <div><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /> <p>Laravel</p> </div> | <div><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /> <p>Vue</p> </div> | <div><img src="https://skillicons.dev/icons?i=react" alt="React" /> <p>React</p> </div> |
+| --- | --- | --- | --- | --- |
 
-- **Programming Languages**:
-    - Python
-    - PHP
-    - Javascript
-    - C#
-    - Java
+### Other tools I use
+| <div><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" /> <p>Vscode</p> </div> | <div><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" /> <p>IntelliJ</p> </div> | <div><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> <p>PyCharm</p> </div> | <div><img src="https://skillicons.dev/icons?i=phpstorm" alt="PhpStorm" /> <p>PhpStorm</p> </div> |
+| --- | --- | --- | --- |
 
-- **Frameworks and Tools**:
-    - Laravel
-    - Vue.js
-    - Ionic (for hybrid mobile applications)
-
-- **Other Skills**:
-    - HTML5, CSS3
-
-## 🎮 Hobbies and Interests
-
-- **Video Games**: A big fan of video games, especially the **Persona** series, known for its deep narrative and artistic design.
-- **Cinema and Anime**: Passionate about cinema and anime, always enjoying the discovery of new audiovisual works.
-- **Art and Creation**: I love art related to the world of video games, especially the creation of **2D sprites**.
-
-## 🌱 Constantly Evolving
-In addition to all this, I am always looking for new technologies and programming languages to learn and improve, staying up-to-date with the latest trends in development and digital art.
 
 <p align="center">
   <img src="https://i.redd.it/bu1weaikjewy.gif" alt="Persona Gif" />
